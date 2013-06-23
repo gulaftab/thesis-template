@@ -1,0 +1,22 @@
+\contentsline {chapter}{Abstract}{6}
+\contentsline {chapter}{Declaration}{7}
+\contentsline {chapter}{Copyright}{8}
+\contentsline {chapter}{Acknowledgements}{9}
+\contentsline {chapter}{\numberline {1}Introduction}{10}
+\contentsline {section}{\numberline {1.1}How to read this document}{10}
+\contentsline {section}{\numberline {1.2}Aim}{10}
+\contentsline {section}{\numberline {1.3}Driving Latex}{10}
+\contentsline {section}{\numberline {1.4}Software Environment}{11}
+\contentsline {subsection}{\numberline {1.4.1}Occam}{11}
+\contentsline {chapter}{\numberline {2}Short Chap title}{13}
+\contentsline {section}{\numberline {2.1}Image processing}{13}
+\contentsline {section}{\numberline {2.2}Low level operations}{13}
+\contentsline {section}{\numberline {2.3}Creating Diagrams}{14}
+\contentsline {section}{\numberline {2.4}Screen Dumps}{15}
+\contentsline {chapter}{\numberline {3}Making a bibliography}{16}
+\contentsline {chapter}{Bibliography}{17}
+\contentsline {chapter}{\numberline {A}Example of operation}{18}
+\contentsline {section}{\numberline {A.1}Example input and output}{18}
+\contentsline {subsection}{\numberline {A.1.1}Input}{18}
+\contentsline {subsection}{\numberline {A.1.2}Output}{19}
+\contentsline {subsection}{\numberline {A.1.3}Another way to include code}{19}

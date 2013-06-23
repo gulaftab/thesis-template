@@ -1,0 +1,21 @@
+This directory contains an example thesis using the
+LaTeX document preparation system. Within the sample
+is a simple guide to using LaTeX. It is based on the
+sample 3rd year report, but uses the style
+appropriate for a postgraduate thesis.
+
+Start by looking at the file report.tex.
+
+To process the report example:
+
+Copy all the files.
+Run
+   latex report
+   bibtex report
+and then run `latex report' twice more.
+
+
+Graham Gough
+
+Revised 15th August 2011
+
